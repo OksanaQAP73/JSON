@@ -44,15 +44,15 @@
    7.3 Пишем информацию о себе в формате JSON:
 ```
    ```json
-   {
-        "name": "Oksana",
-        "age": "46",
-        "animals": "Don't have animals",
-        "salary": "200 000 rub"
+    {
+     "name": "Oksana",
+     "age": "46",
+     "animals": "Don't have animals",
+     "salary": "200 000 rub"
     }
     ```
 ```
 ```
-7.4 Нажать для выхода Esc -> :wq
+   7.4 Нажать для выхода Esc -> :wq
 ```
 
