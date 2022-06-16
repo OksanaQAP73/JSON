@@ -55,4 +55,14 @@
 ```
    7.4 Нажать для выхода Esc -> :wq
 ```
+8. Отправить изменения на внешний репозиторий:
+```
+    8.1 json Oxana$ git add new.json
+    8.2 json Oxana$ git commit -m "information about me"
+    8.3 json Oxana$ git push
+```
+9. Создать файл preferences.json:
+    ```
+    9.1 json Oxana$ touch preferences.json
+    ```
 
