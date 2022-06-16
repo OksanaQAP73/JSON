@@ -85,9 +85,9 @@
    	10.4 Нажать для выхода Esc -> :wq
 	```
 11. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON:
-```
+	```
 	11.1 json Oxana$ cat >> sklls.json
-```
+	```
 	```json
 		{
 		"skills": "Terminal, Git, Testing QA, JS"
