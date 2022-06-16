@@ -44,12 +44,12 @@
 	7.3 Пишем информацию о себе в формате JSON:
 	```
 		```json
-		{
-		"name": "Oksana",
-		"age": "46",
-		"animals": "Don't have animals",
-		"salary": "200 000 rub"
-		}
+			{
+			"name": "Oksana",
+			"age": "46",
+			"animals": "Don't have animals",
+			"salary": "200 000 rub"
+			}
 		```
 
 	```
