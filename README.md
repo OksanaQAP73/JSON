@@ -88,7 +88,6 @@
 ```
 	11.1 json Oxana$ cat >> sklls.json
 ```
-	
 	```json
 		{
 		"skills": "Terminal, Git, Testing QA, JS"
