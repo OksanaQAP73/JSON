@@ -98,4 +98,11 @@
 	11.2 Нажать Ctrl + D для выхода из режима редактирования и сохранения файла
 	```
 12. Отправить сразу 2 файла на внешний репозиторий:
+	```
+	12.1 json Oxana$ git add preferences.json sklls.json
+	12.2 json Oxana$ git commit -m 'Add 2 new files'
+	12.3 json Oxana$ git push
+	```
+13. На веб интерфейсе создать файл bug_report.json:
+
 
