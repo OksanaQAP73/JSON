@@ -10,33 +10,33 @@
  	1.7 Нажать внизу на кнопку Creat repository
 	```
 2. Клонировать репозиторий JSON на локальный компьютер:
-```
-   2.1 Нажать на кнопку справа Code
-   2.2 Выбрать HTTPS
-   2.3 Скопировать ссылку на репозиторий, расположена ниже
-   2.4 Зайти в Terminal
-   2.5 Зайти в папку в которой будем рабоать -> ~ Oxana$ cd documents/30QAGroup/
-   2.6 Создать папку в которой будем работать -> 30QAGroup Oxana$ mkdir GitHub
-   2.7 Зайти в созданную папку -> 30QAGroup Oxana$ cd GitHub/
-   2.8 Создать на ПК клон репозитория c GitHub -> GitHub Oxana$ git clone https://github.com/OksanaQAP73/JSON.git
-```
+	```
+	2.1 Нажать на кнопку справа Code
+	2.2 Выбрать HTTPS
+	2.3 Скопировать ссылку на репозиторий, расположена ниже
+	2.4 Зайти в Terminal
+	2.5 Зайти в папку в которой будем рабоать -> ~ Oxana$ cd documents/30QAGroup/
+	2.6 Создать папку в которой будем работать -> 30QAGroup Oxana$ mkdir GitHub
+	2.7 Зайти в созданную папку -> 30QAGroup Oxana$ cd GitHub/
+	2.8 Создать на ПК клон репозитория c GitHub -> GitHub Oxana$ git clone https://github.com/OksanaQAP73/JSON.git
+	```
 3. Внутри локального JSON создать файл “new.json”:
-```
-   3.1 Зайти в папку JSON на ПК -> GitHub Oxana$ cd json
-   3.2 Создать файл new.json -> json Oxana$ touch new.json
-```
+	```
+	3.1 Зайти в папку JSON на ПК -> GitHub Oxana$ cd json
+	3.2 Создать файл new.json -> json Oxana$ touch new.json
+	```
 4. Добавить файл под гит:
-```
-    4.1 json Oxana$ git add new.json
-```
+	```
+	4.1 json Oxana$ git add new.json
+	```
 5. Закоммитить файл:
-```
-    5.1 json Oxana$ git commit -m "add the first file"
-```
+	```
+	5.1 json Oxana$ git commit -m "add the first file"
+	```
 6. Отправить файл на внешний GitHub репозиторий:
-```
-    6.1 json Oxana$ git push
-```
+	```
+	6.1 json Oxana$ git push
+	```
 7. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON:
 	```
 	7.1 json Oxana$ vim new.json
@@ -56,15 +56,15 @@
 	7.4 Нажать для выхода Esc -> :wq
 	```
 8. Отправить изменения на внешний репозиторий:
-```
-    8.1 json Oxana$ git add new.json
-    8.2 json Oxana$ git commit -m "information about me"
-    8.3 json Oxana$ git push
-```
+	```
+	8.1 json Oxana$ git add new.json
+	8.2 json Oxana$ git commit -m "information about me"
+	8.3 json Oxana$ git push
+	```
 9. Создать файл preferences.json:
-    ```
-    9.1 json Oxana$ touch preferences.json
-    ```
+	```
+	9.1 json Oxana$ touch preferences.json
+	```
 10. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON:
 	```
 	10.1 json Oxana$ vim preferences.json
